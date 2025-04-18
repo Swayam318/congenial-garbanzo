@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+cryptography
+google-generativeai
+Flask
+gunicorn
