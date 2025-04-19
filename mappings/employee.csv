@@ -1,0 +1,6 @@
+common_name,odoo,sap
+employee_name,name,full_name
+employee_work_email,work_email,email
+employee_work_phone,work_phone,phone_number
+employee_id,id,employee_id
+employee_job_title,job_title,job_name
