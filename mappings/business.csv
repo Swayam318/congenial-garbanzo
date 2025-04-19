@@ -1,0 +1,17 @@
+common_name,odoo,sap
+business_name,name,businessName
+business_type,type,businessType
+business_email,email,businessEmail
+business_phone,phone,businessPhone
+business_address,street,addressLine
+business_city,city,cityName
+business_state,state_id,state
+business_zip,zip,postalCode
+business_country,country_id,country
+business_tax_id,vat,taxNumber
+business_website,website,websiteUrl
+business_currency,currency_id,currency
+business_create_date,create_date,createdOn
+business_write_date,write_date,lastUpdated
+business_create_uid,create_uid,createdBy
+business_write_uid,write_uid,updatedBy
